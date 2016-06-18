@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\07.StudentsByPhone\bin\Debug\07.StudentsByPhone.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\07.StudentsByPhone\bin\Debug\07.StudentsByPhone.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\07.StudentsByPhone\bin\Debug\07.StudentsByPhone.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\07.StudentsByPhone\obj\Debug\07.StudentsByPhone.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\07.StudentsByPhone\obj\Debug\07.StudentsByPhone.pdb

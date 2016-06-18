@@ -1,0 +1,6 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\10.GroupByGroup\bin\Debug\10.GroupByGroup.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\10.GroupByGroup\obj\Debug\10.GroupByGroup.csprojResolveAssemblyReference.cache
+D:\SoftUni Projects\C#\VS projects\Solution1\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb

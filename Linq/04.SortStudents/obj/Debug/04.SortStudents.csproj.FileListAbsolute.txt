@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\04.SortStudents\bin\Debug\04.SortStudents.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\04.SortStudents\bin\Debug\04.SortStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\04.SortStudents\bin\Debug\04.SortStudents.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\04.SortStudents\obj\Debug\04.SortStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\04.SortStudents\obj\Debug\04.SortStudents.pdb

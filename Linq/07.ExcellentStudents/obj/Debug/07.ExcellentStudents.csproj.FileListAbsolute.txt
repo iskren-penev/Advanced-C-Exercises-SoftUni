@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\07.ExcellentStudents\bin\Debug\07.ExcellentStudents.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\07.ExcellentStudents\bin\Debug\07.ExcellentStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\07.ExcellentStudents\bin\Debug\07.ExcellentStudents.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\07.ExcellentStudents\obj\Debug\07.ExcellentStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\07.ExcellentStudents\obj\Debug\07.ExcellentStudents.pdb

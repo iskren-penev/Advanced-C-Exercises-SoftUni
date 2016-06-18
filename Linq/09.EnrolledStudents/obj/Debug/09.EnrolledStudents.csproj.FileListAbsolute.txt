@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\09.EnrolledStudents\bin\Debug\09.EnrolledStudents.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\09.EnrolledStudents\bin\Debug\09.EnrolledStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\09.EnrolledStudents\bin\Debug\09.EnrolledStudents.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\09.EnrolledStudents\obj\Debug\09.EnrolledStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\09.EnrolledStudents\obj\Debug\09.EnrolledStudents.pdb

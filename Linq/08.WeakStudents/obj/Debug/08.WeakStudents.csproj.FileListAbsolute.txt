@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\08.WeakStudents\bin\Debug\08.WeakStudents.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\08.WeakStudents\bin\Debug\08.WeakStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\08.WeakStudents\bin\Debug\08.WeakStudents.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\08.WeakStudents\obj\Debug\08.WeakStudents.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\08.WeakStudents\obj\Debug\08.WeakStudents.pdb
