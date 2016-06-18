@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\13.OfficeStuff\bin\Debug\13.OfficeStuff.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\13.OfficeStuff\obj\Debug\13.OfficeStuff.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\13.OfficeStuff\obj\Debug\13.OfficeStuff.pdb

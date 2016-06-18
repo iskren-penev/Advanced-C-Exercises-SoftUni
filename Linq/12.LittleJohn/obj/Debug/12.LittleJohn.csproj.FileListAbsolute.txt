@@ -1,0 +1,6 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\12.LittleJohn\bin\Debug\12.LittleJohn.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\12.LittleJohn\bin\Debug\12.LittleJohn.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\12.LittleJohn\bin\Debug\12.LittleJohn.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\12.LittleJohn\obj\Debug\12.LittleJohn.csprojResolveAssemblyReference.cache
+D:\SoftUni Projects\C#\VS projects\Solution1\12.LittleJohn\obj\Debug\12.LittleJohn.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\12.LittleJohn\obj\Debug\12.LittleJohn.pdb

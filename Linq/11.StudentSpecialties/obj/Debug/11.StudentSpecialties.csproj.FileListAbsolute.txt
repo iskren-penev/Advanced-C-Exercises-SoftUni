@@ -1,0 +1,6 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\11.StudentSpecialties\bin\Debug\11.StudentSpecialties.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\11.StudentSpecialties\bin\Debug\11.StudentSpecialties.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\11.StudentSpecialties\bin\Debug\11.StudentSpecialties.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\11.StudentSpecialties\obj\Debug\11.StudentSpecialties.csprojResolveAssemblyReference.cache
+D:\SoftUni Projects\C#\VS projects\Solution1\11.StudentSpecialties\obj\Debug\11.StudentSpecialties.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\11.StudentSpecialties\obj\Debug\11.StudentSpecialties.pdb
