@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe.config
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.pdb
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.pdb

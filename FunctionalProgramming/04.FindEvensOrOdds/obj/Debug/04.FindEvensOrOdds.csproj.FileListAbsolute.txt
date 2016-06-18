@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe.config
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.pdb
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.pdb

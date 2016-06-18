@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe.config
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.pdb
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.pdb
