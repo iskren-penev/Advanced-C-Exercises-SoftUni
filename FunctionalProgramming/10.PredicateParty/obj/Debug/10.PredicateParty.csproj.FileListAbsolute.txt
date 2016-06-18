@@ -1,0 +1,6 @@
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\10.PredicateParty\bin\Debug\10.PredicateParty.exe.config
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\10.PredicateParty\bin\Debug\10.PredicateParty.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\10.PredicateParty\bin\Debug\10.PredicateParty.pdb
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\10.PredicateParty\obj\Debug\10.PredicateParty.csprojResolveAssemblyReference.cache
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\10.PredicateParty\obj\Debug\10.PredicateParty.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\10.PredicateParty\obj\Debug\10.PredicateParty.pdb

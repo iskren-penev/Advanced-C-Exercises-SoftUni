@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe.config
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.pdb
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.pdb

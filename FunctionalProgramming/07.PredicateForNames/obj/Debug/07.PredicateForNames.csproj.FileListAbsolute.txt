@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe.config
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\07.PredicateForNames\bin\Debug\07.PredicateForNames.pdb
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\07.PredicateForNames\obj\Debug\07.PredicateForNames.exe
+D:\SoftUni Projects\C#\VS projects\FunctionalProgramming\07.PredicateForNames\obj\Debug\07.PredicateForNames.pdb
