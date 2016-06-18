@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\03.StudentsByAge\bin\Debug\03.StudentsByAge.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\03.StudentsByAge\obj\Debug\03.StudentsByAge.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\03.StudentsByAge\obj\Debug\03.StudentsByAge.pdb

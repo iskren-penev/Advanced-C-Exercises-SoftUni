@@ -1,0 +1,5 @@
+D:\SoftUni Projects\C#\VS projects\Solution1\02.StudentsByName\bin\Debug\02.StudentsByName.exe.config
+D:\SoftUni Projects\C#\VS projects\Solution1\02.StudentsByName\bin\Debug\02.StudentsByName.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\02.StudentsByName\bin\Debug\02.StudentsByName.pdb
+D:\SoftUni Projects\C#\VS projects\Solution1\02.StudentsByName\obj\Debug\02.StudentsByName.exe
+D:\SoftUni Projects\C#\VS projects\Solution1\02.StudentsByName\obj\Debug\02.StudentsByName.pdb
